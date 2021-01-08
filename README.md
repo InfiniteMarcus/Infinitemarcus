@@ -33,4 +33,9 @@ I also like video games, anime, and many other things. In my free time, I do a l
 
 Follow me in social media for more info:
 
+* [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
+* [Facebook](https://www.facebook.com/marcus.natrielli/)
+* [Twitter](https://twitter.com/InfiniteMarcus)
+* [Youtube](https://www.youtube.com/user/INFINITEMARCUS)
+* Discord: Infinitemarcus#7642
 
