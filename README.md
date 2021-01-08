@@ -10,7 +10,7 @@ I'm currently working on updating my [Monika bot repository](https://github.com/
 
 ## ⏳ - Next project
 
-In future, I wish to work with a new 2D videogame in [Godot engine](https://godotengine.org/). 
+In future, I wish to work with a new 2D videogame in [Godot engine](https://godotengine.org/). More info soon.
 
 If you want to see my first gaming project (where I participated as programmer and game designer), access this game/demo: [In Their Eyes](https://infinitemarcus.itch.io/in-their-eyes).
 
