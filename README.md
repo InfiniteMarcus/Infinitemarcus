@@ -10,15 +10,15 @@ I'm currently working on updating my [Monika bot repository](https://github.com/
 
 ## ⏳ - Next project
 
-In future, I wish to work with a new 2D videogame in [Godot engine](https://godotengine.org/). More info soon.
+In the future, I want to work with a new 2D videogame in [Godot engine](https://godotengine.org/). More info soon.
 
-If you want to see my first gaming project (where I participated as programmer and game designer), access this game/demo: [In Their Eyes](https://infinitemarcus.itch.io/in-their-eyes).
+If you want to see my first gaming project (in which I participated as programmer and game designer), access this game/demo: [In Their Eyes](https://infinitemarcus.itch.io/in-their-eyes).
 
 ## 🤓 - What I like
 
 I like to work with technologies and programming languages such as:
 * Arduino
-* Discord bots (mainly with [Discord.js](https://github.com/discordjs/discord.js)
+* Discord bots (mainly with [Discord.js](https://github.com/discordjs/discord.js))
 * C/C++/C#
 * Game development in general
 * PHP
