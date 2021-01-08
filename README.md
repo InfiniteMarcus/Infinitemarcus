@@ -25,7 +25,7 @@ I like to work with technologies and programming languages such as:
 * Java
 * Javascript (currently studying Node.js)
 * SQL
-* Etc etc
+* Etc...
 
 I also like video games, anime, and many other things. In my free time, I do a little bit of everything 😄
 
@@ -37,5 +37,5 @@ Follow me in social media for more info:
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/InfiniteMarcus)
 * [Youtube](https://www.youtube.com/user/INFINITEMARCUS)
-* Discord: Infinitemarcus#7642
+* **Discord:** Infinitemarcus#7642
 
