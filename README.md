@@ -25,7 +25,7 @@ I like to work with technologies and programming languages such as:
 * Java
 * Javascript (currently studying Node.js)
 * SQL
-Etc
+* Etc etc
 
 I also like video games, anime, and many other things. In my free time, I do a little bit of everything 😄
 
