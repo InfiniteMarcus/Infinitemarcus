@@ -4,6 +4,8 @@
 
 I'm a Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba. I am also part of the organization of the extension activity and hackerspace HackoonSpace, at the same university.
 
+At the moment, I aim to learn more about bots, Artificial Intelligence, web development and digital security. In the future, I want to go deeper into game development.
+
 ## 💻 - Working status
 
 I'm currently working on updating my [Monika bot repository](https://github.com/Infinitemarcus/Monika-bot) with new commands and good programming practices. This is my first Node.js project, so I still need to learn somethings.
