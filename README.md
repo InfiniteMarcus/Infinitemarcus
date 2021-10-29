@@ -1,6 +1,8 @@
-# About me
+<h1 align="center">
+  <p><i>"You can be a hero too"</i></p>
+</h1>
 
-## 🤔 - Who I am
+## 🤔 - About me
 
 Hi!
 
@@ -30,16 +32,16 @@ I also like anime, comics, video games and many other things. I do a little bit 
 * CSS
 * Arduino
 
-~~Give me a language and I will try to make some code.~~
+~~But, you can give me a language and I will try to make some code.~~
 
-# Working status
+## 📈 - Working status
 
 ![Overview](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/overview.svg)
 ![Languages](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/languages.svg)
 
 ## 💻 - My studies
 
-I'm learning more about:
+Currently, I'm learning more about:
 
 * Cloud Computing
 * Python
@@ -55,7 +57,7 @@ So, I'm working in:
 * Doki Doki Literature Club 2D fan game (**TBA**)
 * Arduino Lightsaber (based on [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
 
-# Contact me
+## 📞 - Contact me
 
 Follow me in social media:
 
