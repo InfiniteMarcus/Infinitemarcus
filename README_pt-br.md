@@ -24,7 +24,7 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 
 ## 🤓 - (Algumas das) Minhas Tecnologias Favoritas
 
-* Bots de Discord (co, [Discord.js](https://github.com/discordjs/discord.js))
+* Bots de Discord (com [Discord.js](https://github.com/discordjs/discord.js))
 * Javascript (principalmente Node.js)
 * [Godot Engine](https://godotengine.org/)
 * C/C++
@@ -57,7 +57,7 @@ Então, eu estou trabalhando em:
 
 * Bot do Projeto Hanna (*como sempre*)
 * Site do Projeto Hanna
-* Fan Game 2D do jogo Doki Doki Literature Club (**TBA**)
+* Fan Game 2D do jogo Doki Doki Literature Club (**em breve**)
 * Sabre de Luz com Arduino (baseado em [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
 
 ## 📞 - Entre em contato
