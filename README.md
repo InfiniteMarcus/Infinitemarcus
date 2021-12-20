@@ -1,3 +1,6 @@
+
+📌 - [Versão em Português](https://github.com/InfiniteMarcus/Infinitemarcus/blob/main/README_pt-br.md)
+
 <h1 align="center">
   <p><i>"You can be a hero too"</i></p>
 </h1>
