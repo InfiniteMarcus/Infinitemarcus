@@ -46,10 +46,10 @@ I also like anime, comics, video games and many other things. I do a little bit 
 
 Currently, I'm learning more about:
 
+* Docker
 * Cloud Computing
 * Python
 * Machine Learning algorithms
-* React
 
 ## ⏳ - Current projects
 
