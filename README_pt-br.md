@@ -46,10 +46,10 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 
 Atualmente, estou aprendendo sobre:
 
+* Docker
 * Computação em Nuvem
 * Python
 * Algoritmos de Aprendizado de Máquina
-* React
 
 ## ⏳ - Projetos atuais
 
