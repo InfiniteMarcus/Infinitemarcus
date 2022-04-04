@@ -26,6 +26,8 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 
 * Bots de Discord (com [Discord.js](https://github.com/discordjs/discord.js))
 * Javascript (principalmente Node.js)
+* TypeScript
+* React.js
 * [Godot Engine](https://godotengine.org/)
 * C/C++
 * Python
