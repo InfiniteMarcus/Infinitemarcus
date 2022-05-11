@@ -9,7 +9,7 @@
 
 Olá!
 
-Meu nome é Marcus Vinícius e eu sou um estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba. Eu também sou um dos organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
+Meu nome é Marcus Natrielli e eu sou um estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba. Eu também sou um dos organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
 
 Uma das minhas mais importantes criações é o [Projeto Hanna](https://twitter.com/ProjectHanna), então dê uma olhada! O site oficial virá **em breve**.
 
