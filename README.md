@@ -9,7 +9,7 @@
 
 Hi!
 
-My name is Marcus Vinícius and I'm a Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba. I'm also one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
+My name is Marcus Natrielli and I'm a Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba. I'm also one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
 
 One of my most important creations is [Project Hanna](https://twitter.com/ProjectHanna), so check it out! Official website **TBA**.
 
