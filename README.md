@@ -69,7 +69,7 @@ Follow me in social media:
 * [Website](https://www.marcusnatrielli.com/)
 * [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
-* [Twitter](https://twitter.com/InfiniteMarcus)
-* [Youtube](https://www.youtube.com/user/INFINITEMARCUS)
-* **Discord:** Infinitemarcus#7642
+* [Twitter](https://twitter.com/MarcusNatrielli)
+* [Youtube](https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ)
+* **Discord:** Marcus Natrielli#0438
 
