@@ -67,6 +67,7 @@ Então, eu estou trabalhando em:
 Me siga nas redes sociais:
 
 * [Website](https://www.marcusnatrielli.com/)
+* [LinkedIn](https://www.linkedin.com/in/marcus-natrielli/)
 * [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
