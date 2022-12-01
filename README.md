@@ -9,9 +9,9 @@
 
 Hi!
 
-My name is Marcus Natrielli and I'm a Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba. I'm also one of the managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
+My name is Marcus Natrielli and I'm a forming Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba and one of the founders and ex-managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
 
-One of my most important creations is [Project Hanna](https://twitter.com/ProjectHanna), so check it out! Official website **TBA**.
+One of my most important creations is [Project Hanna]([https://twitter.com/ProjectHanna](https://www.projecthanna.com/)), so check it out!
 
 At the moment, the technology areas that I'm most interested of are:
 * **Bots and Artificial Intelligence**
@@ -24,13 +24,17 @@ I also like anime, comics, video games and many other things. I do a little bit 
 
 ## 🤓 - (Some of) My Favorite technologies
 
+### Most used
 * Discord bots (with [Discord.js](https://github.com/discordjs/discord.js))
 * Javascript (mainly Node.js)
 * TypeScript
 * React.js
+* Next.js
+* Python
+
+### Others
 * [Godot Engine](https://godotengine.org/)
 * C/C++
-* Python
 * SQL
 * Java
 * HTML
@@ -50,7 +54,6 @@ Currently, I'm learning more about:
 
 * Docker
 * Cloud Computing
-* Python
 * Machine Learning algorithms
 
 ## ⏳ - Current projects
@@ -58,7 +61,6 @@ Currently, I'm learning more about:
 So, I'm working in:
 
 * Project Hanna bot (*as always*)
-* Project Hanna Website
 * Doki Doki Literature Club 2D fan game (**TBA**)
 * Arduino Lightsaber (based on [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
 
@@ -71,6 +73,6 @@ Follow me in social media:
 * [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
-* [Youtube](https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ)
+* [Youtube]([https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ](https://www.youtube.com/@marcusnatrielli))
 * **Discord:** Marcus Natrielli#0438
 
