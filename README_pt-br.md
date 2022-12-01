@@ -9,9 +9,9 @@
 
 Olá!
 
-Meu nome é Marcus Natrielli e eu sou um estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba. Eu também sou um dos organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
+Meu nome é Marcus Natrielli e sou formando de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba e um dos fundadores e ex-organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
 
-Uma das minhas mais importantes criações é o [Projeto Hanna](https://twitter.com/ProjectHanna), então dê uma olhada! O site oficial virá **em breve**.
+Uma das minhas mais importantes criações é o [Projeto Hanna](https://www.projecthanna.com/), então dê uma olhada!.
 
 No momento, as áreas da tecnologia que eu mais estou interessado são:
 * **Bots e Inteligência Artificial**
@@ -24,18 +24,22 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 
 ## 🤓 - (Algumas das) Minhas Tecnologias Favoritas
 
-* Bots de Discord (com [Discord.js](https://github.com/discordjs/discord.js))
-* Javascript (principalmente Node.js)
-* TypeScript
-* React.js
-* [Godot Engine](https://godotengine.org/)
-* C/C++
-* Python
-* SQL
-* Java
-* HTML
-* CSS
-* Arduino
+### Principais
+* **Bots de Discord** (com **[Discord.js](https://github.com/discordjs/discord.js)**)
+* **Javascript** (principalmente **Node.js**)
+* **TypeScript**
+* **React.js**
+* **Next.js**
+* **Python**
+
+### Outras
+* **[Godot Engine](https://godotengine.org/)**
+* **C/C++**
+* **SQL**
+* **Java**
+* **HTML**
+* **CSS**
+* **Arduino**
 
 ~~Mas, você pode me dar uma linguagem e eu tentarei escrever um pouco de código.~~
 
@@ -50,7 +54,6 @@ Atualmente, estou aprendendo sobre:
 
 * Docker
 * Computação em Nuvem
-* Python
 * Algoritmos de Aprendizado de Máquina
 
 ## ⏳ - Projetos atuais
@@ -58,7 +61,6 @@ Atualmente, estou aprendendo sobre:
 Então, eu estou trabalhando em:
 
 * Bot do Projeto Hanna (*como sempre*)
-* Site do Projeto Hanna
 * Fan Game 2D do jogo Doki Doki Literature Club (**em breve**)
 * Sabre de Luz com Arduino (baseado em [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
 
@@ -71,5 +73,5 @@ Me siga nas redes sociais:
 * [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
-* [Youtube](https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ)
+* [Youtube](https://www.youtube.com/@marcusnatrielli)
 * **Discord:** Marcus Natrielli#0438
