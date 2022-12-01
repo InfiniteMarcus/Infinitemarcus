@@ -30,6 +30,7 @@ I also like anime, comics, video games and many other things. I do a little bit 
 * **TypeScript**
 * **React.js**
 * **Next.js**
+* **Django**
 * **Python**
 
 ### Others
