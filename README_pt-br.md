@@ -30,6 +30,7 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 * **TypeScript**
 * **React.js**
 * **Next.js**
+* **Django**
 * **Python**
 
 ### Outras
