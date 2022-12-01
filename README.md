@@ -11,7 +11,7 @@ Hi!
 
 My name is Marcus Natrielli and I'm a forming Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba and one of the founders and ex-managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
 
-One of my most important creations is [Project Hanna]([https://twitter.com/ProjectHanna](https://www.projecthanna.com/)), so check it out!
+One of my most important creations is [Project Hanna](https://www.projecthanna.com/), so check it out!
 
 At the moment, the technology areas that I'm most interested of are:
 * **Bots and Artificial Intelligence**
