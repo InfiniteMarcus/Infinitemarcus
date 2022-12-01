@@ -25,21 +25,21 @@ I also like anime, comics, video games and many other things. I do a little bit 
 ## 🤓 - (Some of) My Favorite technologies
 
 ### Most used
-* Discord bots (with [Discord.js](https://github.com/discordjs/discord.js))
-* Javascript (mainly Node.js)
-* TypeScript
-* React.js
-* Next.js
-* Python
+* **Discord bots** (with [Discord.js](https://github.com/discordjs/discord.js))
+* **Javascript** (mainly **Node.js**)
+* **TypeScript**
+* **React.js**
+* **Next.js**
+* **Python**
 
 ### Others
-* [Godot Engine](https://godotengine.org/)
-* C/C++
-* SQL
-* Java
-* HTML
-* CSS
-* Arduino
+* **[Godot Engine](https://godotengine.org/)**
+* **C/C++**
+* **SQL**
+* **Java**
+* **HTML**
+* **CSS**
+* **Arduino**
 
 ~~But, you can give me a language and I will try to make some code.~~
 
