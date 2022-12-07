@@ -34,6 +34,7 @@ I also like anime, comics, video games and many other things. I do a little bit 
 * **Python**
 
 ### Others
+* **Express.js**
 * **[Godot Engine](https://godotengine.org/)**
 * **C/C++**
 * **SQL**
