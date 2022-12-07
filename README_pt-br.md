@@ -34,6 +34,7 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 * **Python**
 
 ### Outras
+* **Express.js**
 * **[Godot Engine](https://godotengine.org/)**
 * **C/C++**
 * **SQL**
