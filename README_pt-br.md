@@ -11,7 +11,7 @@ Olá!
 
 Meu nome é Marcus Natrielli e sou formando de Ciência da Computação na Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba e um dos fundadores e ex-organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
 
-Uma das minhas mais importantes criações é o [Projeto Hanna](https://www.projecthanna.com/), então dê uma olhada!.
+Uma das minhas mais importantes criações é o [Projeto Hanna](https://www.projetohanna.com/), então dê uma olhada!.
 
 No momento, as áreas da tecnologia que eu mais estou interessado são:
 * **Bots e Inteligência Artificial**
