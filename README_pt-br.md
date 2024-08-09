@@ -50,22 +50,6 @@ Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu f
 ![Overview](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/overview.svg)
 ![Languages](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/languages.svg)
 
-## 💻 - Meus estudos
-
-Atualmente, estou aprendendo sobre:
-
-* Docker
-* Computação em Nuvem
-* Algoritmos de Aprendizado de Máquina
-
-## ⏳ - Projetos atuais
-
-Então, eu estou trabalhando em:
-
-* Bot do Projeto Hanna (*como sempre*)
-* Fan Game 2D do jogo Doki Doki Literature Club (**em breve**)
-* Sabre de Luz com Arduino (baseado em [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
-
 ## 📞 - Entre em contato
 
 Me siga nas redes sociais:
