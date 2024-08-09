@@ -50,22 +50,6 @@ I also like anime, comics, video games and many other things. I do a little bit 
 ![Overview](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/overview.svg)
 ![Languages](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/languages.svg)
 
-## 💻 - My studies
-
-Currently, I'm learning more about:
-
-* Docker
-* Cloud Computing
-* Machine Learning algorithms
-
-## ⏳ - Current projects
-
-So, I'm working in:
-
-* Project Hanna bot (*as always*)
-* Doki Doki Literature Club 2D fan game (**TBA**)
-* Arduino Lightsaber (based on [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
-
 ## 📞 - Contact me
 
 Follow me in social media:
