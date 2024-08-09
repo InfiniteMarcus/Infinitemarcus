@@ -60,5 +60,5 @@ Follow me in social media:
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
 * [Youtube]([https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ](https://www.youtube.com/@marcusnatrielli))
-* **Discord:** Marcus Natrielli#0438
+* **Discord:** infinitemarcus
 
