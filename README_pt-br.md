@@ -60,4 +60,4 @@ Me siga nas redes sociais:
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
 * [Youtube](https://www.youtube.com/@marcusnatrielli)
-* **Discord:** Marcus Natrielli#0438
+* **Discord:** infinitemarcus
