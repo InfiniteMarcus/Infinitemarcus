@@ -9,7 +9,7 @@
 
 Hi!
 
-My name is Marcus Natrielli and I'm a forming Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba and one of the founders and ex-managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
+My name is Marcus Natrielli and I'm graduated in Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba and one of the founders and ex-managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
 
 One of my most important creations is [Project Hanna](https://www.projetohanna.com/), so check it out!
 
