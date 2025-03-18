@@ -43,8 +43,6 @@ I also like anime, comics, video games and many other things. I do a little bit 
 * **CSS**
 * **Arduino**
 
-~~But, you can give me a language and I will try to make some code.~~
-
 ## 📈 - Working status
 
 ![Overview](https://github.com/Infinitemarcus/github-stats-transparent/blob/output/generated/overview.svg)
@@ -59,6 +57,6 @@ Follow me in social media:
 * [Quora](https://www.quora.com/profile/Marcus-Vinicius-Natrielli-Garcia)
 * [Facebook](https://www.facebook.com/marcus.natrielli/)
 * [Twitter](https://twitter.com/MarcusNatrielli)
-* [Youtube]([https://www.youtube.com/channel/UCZNG7XNAtaVwst0BTzxiHCQ](https://www.youtube.com/@marcusnatrielli))
+* [Youtube](https://www.youtube.com/@marcusnatrielli)
 * **Discord:** infinitemarcus
 
