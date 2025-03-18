@@ -7,43 +7,29 @@
 
 ## 🤔 - Sobre mim
 
-Olá!
+Olá! Meu nome é Marcus Natrielli.
 
-Meu nome é Marcus Natrielli e sou formado em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba e um dos fundadores e ex-organizadores do hackerspace [HackoonSpace](https://www.hackoonspace.com), na mesma universidade.
+Sou um **Desenvolvedor de Software** (principalmente Backend) **brasileiro**, com **bacharelado em Ciência da Computação** pela Universidade Federal de São Carlos (**UFSCar**) - Campus Sorocaba.
 
-Uma das minhas mais importantes criações é o [Projeto Hanna](https://www.projetohanna.com/), então dê uma olhada!.
+Também gosto de animes, quadrinhos, videogames e muitas outras coisas. Faço de tudo um pouco, então bora conversar um dia! 😄
 
-No momento, as áreas da tecnologia que eu mais estou interessado são:
-* **Bots e Inteligência Artificial**
-* **Desenvolvimento de Jogos**
-* **Computação em Nuvem**
-* **Segurança Digital**
-* **Desenvolvimento Web**
+## 📖 - Tópicos de interesse
+- Bots e Inteligência Artificial
+- Desenvolvimento de jogos
+- Comunidades e eventos de tecnologia
+- Segurança digital
+- Computação em nuvem
+- Desenvolvimento web
 
-Eu também gosto de animes, quadrinhos, videogames e várias outras coisas. Eu faço um pouco de tudo, então bora conversar algum dia! 😄
+## 🤓 - Experiências
+- Eu fui um dos fundadores e gerentes do hackerspace [**HackoonSpace**](https://www.hackoonspace.com);
+- Sou o criador e lider da comunidade de tecnologia [**Projeto Hanna**](https://www.projetohanna.com/);
+- Atualmente, estou trabalhando como Desenvolvedor Backend na [**GamerSafer**](https://gamersafer.com).
 
-## 🤓 - (Algumas das) Minhas Tecnologias Favoritas
+## 💻 - Tecnologias e stacks
 
-### Principais
-* **Bots de Discord** (com **[Discord.js](https://github.com/discordjs/discord.js)**)
-* **Javascript** (principalmente **Node.js**)
-* **TypeScript**
-* **React.js**
-* **Next.js**
-* **Django**
-* **Python**
-
-### Outras
-* **Express.js**
-* **[Godot Engine](https://godotengine.org/)**
-* **C/C++**
-* **SQL**
-* **Java**
-* **HTML**
-* **CSS**
-* **Arduino**
-
-~~Mas, você pode me dar uma linguagem e eu tentarei escrever um pouco de código.~~
+- **Mais usadas**: *Discord.js, JavaScript/TypeScript, Node.js, React.js, Next.js, bancos de dados SQL, DynamoDB, AWS Lambda, AWS SQS*,
+- **Outras**: *Python, Django, Express.js, [Godot Engine](https://godotengine.org/), C/C++, HTML, CSS, Arduino*
 
 ## 📈 - Status de Trabalho
 
