@@ -7,41 +7,29 @@
 
 ## 🤔 - About me
 
-Hi!
+Hi! My name is Marcus Natrielli.
 
-My name is Marcus Natrielli and I'm graduated in Computer Science student at the Federal University of São Carlos (UFSCar) - Campus Sorocaba and one of the founders and ex-managers of the hackerspace [HackoonSpace](https://www.hackoonspace.com), at the same university.
+I'm a **brazilian Software Developer** (mainly Backend), with a **bachelor degree in Computer Science** at the Federal University of São Carlos (**UFSCar**) - Campus Sorocaba.
 
-One of my most important creations is [Project Hanna](https://www.projetohanna.com/), so check it out!
+Also, I like anime, comics, video games and many other things. I do a little bit of everything, so let's talk someday! 😄
 
-At the moment, the technology areas that I'm most interested of are:
-* **Bots and Artificial Intelligence**
-* **Game development**
-* **Cloud Computing**
-* **Digital Security**
-* **Web development**
+## 📖 - Topics of interest
+- Bots and Artificial Intelligence
+- Game development
+- Tech Communities and Events
+- Digital Security
+- Cloud Computing
+- Web development
 
-I also like anime, comics, video games and many other things. I do a little bit of everything, so let's talk someday! 😄
+## 🤓 - Experiences
+- I was one of the founders and managers of the hackerspace [**HackoonSpace**](https://www.hackoonspace.com);
+- I'm the creator and leader of the tech community [**Project Hanna**](https://www.projetohanna.com/);
+- Currently, I'm working on as a Backend Developer for [**GamerSafer**](https://gamersafer.com).
 
-## 🤓 - (Some of) My Favorite technologies
+## 💻 - Technologies and stacks
 
-### Most used
-* **Discord bots** (with **[Discord.js](https://github.com/discordjs/discord.js)**)
-* **Javascript** (mainly **Node.js**)
-* **TypeScript**
-* **React.js**
-* **Next.js**
-* **Django**
-* **Python**
-
-### Others
-* **Express.js**
-* **[Godot Engine](https://godotengine.org/)**
-* **C/C++**
-* **SQL**
-* **Java**
-* **HTML**
-* **CSS**
-* **Arduino**
+- **Most used**: *Discord.js, JavaScript/TypeScript, Node.js, React.js, Next.js, SQL databases, DynamoDB, AWS Lambda, AWS SQS*,
+- **Others**: *Python, Django, Express.js, [Godot Engine](https://godotengine.org/), C/C++, HTML, CSS, Arduino*
 
 ## 📈 - Working status
 
