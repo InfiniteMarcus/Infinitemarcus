@@ -22,14 +22,13 @@ Also, I like anime, comics, video games and many other things. I do a little bit
 - Web development
 
 ## 🤓 - Experiences
-- I was one of the founders and managers of the hackerspace [**HackoonSpace**](https://www.hackoonspace.com);
 - I'm the creator and leader of the tech community [**Project Hanna**](https://www.projetohanna.com/);
-- Currently, I'm working on as a Backend Developer for [**GamerSafer**](https://gamersafer.com).
+- I was one of the founders and managers of the hackerspace [**HackoonSpace**](https://www.hackoonspace.com);
 
 ## 💻 - Technologies and stacks
 
-- **Most used**: *Discord.js, JavaScript/TypeScript, Node.js, React.js, Next.js, SQL databases, DynamoDB, AWS Lambda, AWS SQS*,
-- **Others**: *Python, Django, Express.js, [Godot Engine](https://godotengine.org/), C/C++, HTML, CSS, Arduino*
+- **Most used**: *Discord.js, JavaScript/TypeScript, Node.js, React.js, Next.js, Tailwind, Jest, Prisma ORM, SQL databases, DynamoDB, AWS Lambda, AWS SQS, Serverless*,
+- **Others**: *Python, Django, Express.js, Fastify, Nest.js, [Godot Engine](https://godotengine.org/), C/C++, HTML, CSS, Arduino*
 
 ## 📈 - Working status
 
